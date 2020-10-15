@@ -1,5 +1,5 @@
 ## 介绍
-主要是平时学习的代码、及心得文章。
+主要是平时学习的代码、及心得文章。.
 ## 文章列表
 ### 【前端发动机】
 * [「前端发动机」 js原型和原型链 及 canvas验证码实践](https://github.com/wuyawei/fe-code/blob/master/JavaScript/js%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
